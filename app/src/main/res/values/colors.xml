@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="root_view_bg">#cccccc</color>
+    <color name="ffffff">#ffffff</color>
+    <color name="red">#ffff7274</color>
+    <color name="blue">#ff515aff</color>
+
+</resources>
